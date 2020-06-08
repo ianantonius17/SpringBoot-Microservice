@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/eureka-movie-catalog/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-movie-catalog/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka1-movie/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka1-movie/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka2-rating/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka2-rating/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-serivce/src/main/java" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-movie-catalog/eureka.iml" filepath="$PROJECT_DIR$/eureka-movie-catalog/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka1-movie/eureka1.iml" filepath="$PROJECT_DIR$/eureka1-movie/eureka1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka2-rating/eureka2.iml" filepath="$PROJECT_DIR$/eureka2-rating/eureka2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservice-ian.iml" filepath="$PROJECT_DIR$/.idea/microservice-ian.iml" />
+    </modules>
+  </component>
+</project>
